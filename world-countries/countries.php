@@ -11,10 +11,6 @@ $countries = [
         'longtitude_avg' => '65',
     ],
     [
-        'name_fa' => 'جزایر آلند',
-        'alpha_3_code' => 'ALA',
-    ],
-    [
         'name_fa' => 'آلبانی',
         'alpha_3_code' => 'ALB',
         'name_en' => 'Albania',
@@ -1025,7 +1021,7 @@ $countries = [
     [
         'name_fa' => 'کره شمالی',
         'alpha_3_code' => 'PRK',
-        'name_en' => 'Korea, Democratic People's Republic of',
+        'name_en' => 'Korea, Democratic People\'s Republic of',
         'alpha_2_code' => 'KP',
         'numeric_code' => '408',
         'latitude_avg' => '40',
@@ -1061,7 +1057,7 @@ $countries = [
     [
         'name_fa' => 'لائوس',
         'alpha_3_code' => 'LAO',
-        'name_en' => 'Lao People's Democratic Republic',
+        'name_en' => 'Lao People\'s Democratic Republic',
         'alpha_2_code' => 'LA',
         'numeric_code' => '418',
         'latitude_avg' => '18',
@@ -1626,10 +1622,6 @@ $countries = [
         'longtitude_avg' => '30',
     ],
     [
-        'name_fa' => 'سنت بارثلمی',
-        'alpha_3_code' => 'BLM',
-    ],
-    [
         'name_fa' => 'سینت هلینا',
         'alpha_3_code' => 'SHN',
         'name_en' => 'Saint Helena, Ascension and Tristan da Cunha',
@@ -1655,10 +1647,6 @@ $countries = [
         'numeric_code' => '662',
         'latitude_avg' => '13.8833',
         'longtitude_avg' => '-61.1333',
-    ],
-    [
-        'name_fa' => 'سنت مارتین',
-        'alpha_3_code' => 'MAF',
     ],
     [
         'name_fa' => 'سنت پیر و ماژلان',

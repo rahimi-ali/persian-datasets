@@ -9,10 +9,6 @@
         "longtitude_avg": "65"
     },
     {
-        "name_fa": "\u062c\u0632\u0627\u06cc\u0631 \u0622\u0644\u0646\u062f",
-        "alpha_3_code": "ALA"
-    },
-    {
         "name_fa": "\u0622\u0644\u0628\u0627\u0646\u06cc",
         "alpha_3_code": "ALB",
         "name_en": "Albania",
@@ -1624,10 +1620,6 @@
         "longtitude_avg": "30"
     },
     {
-        "name_fa": "\u0633\u0646\u062a \u0628\u0627\u0631\u062b\u0644\u0645\u06cc",
-        "alpha_3_code": "BLM"
-    },
-    {
         "name_fa": "\u0633\u06cc\u0646\u062a \u0647\u0644\u06cc\u0646\u0627",
         "alpha_3_code": "SHN",
         "name_en": "Saint Helena, Ascension and Tristan da Cunha",
@@ -1653,10 +1645,6 @@
         "numeric_code": "662",
         "latitude_avg": "13.8833",
         "longtitude_avg": "-61.1333"
-    },
-    {
-        "name_fa": "\u0633\u0646\u062a \u0645\u0627\u0631\u062a\u06cc\u0646",
-        "alpha_3_code": "MAF"
     },
     {
         "name_fa": "\u0633\u0646\u062a \u067e\u06cc\u0631 \u0648 \u0645\u0627\u0698\u0644\u0627\u0646",
