@@ -7,11 +7,11 @@ CREATE TABLE world_countries (
     alpha_3_code VARCHAR(7) NOT NULL,
     numeric_code VARCHAR(7) NOT NULL,
     latitude_avg VARCHAR(15) NOT NULL,
-    longtitude_avg VARCHAR(15) NOT NULL
+    longitude_avg VARCHAR(15) NOT NULL
 );
 
 INSERT INTO world_countries
-(name_fa, alpha_3_code, name_en, alpha_2_code, numeric_code, latitude_avg, longtitude_avg)
+(name_fa, alpha_3_code, name_en, alpha_2_code, numeric_code, latitude_avg, longitude_avg)
 VALUES
     ('افغانستان','AFG','Afghanistan','AF','4','33','65'),
     ('آلبانی','ALB','Albania','AL','8','41','20'),

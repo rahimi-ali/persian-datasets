@@ -8,7 +8,7 @@ $countries = [
         'alpha_2_code' => 'AF',
         'numeric_code' => '4',
         'latitude_avg' => '33',
-        'longtitude_avg' => '65',
+        'longitude_avg' => '65',
     ],
     [
         'name_fa' => 'آلبانی',
@@ -17,7 +17,7 @@ $countries = [
         'alpha_2_code' => 'AL',
         'numeric_code' => '8',
         'latitude_avg' => '41',
-        'longtitude_avg' => '20',
+        'longitude_avg' => '20',
     ],
     [
         'name_fa' => 'الجزایر',
@@ -26,7 +26,7 @@ $countries = [
         'alpha_2_code' => 'DZ',
         'numeric_code' => '12',
         'latitude_avg' => '28',
-        'longtitude_avg' => '3',
+        'longitude_avg' => '3',
     ],
     [
         'name_fa' => 'ساموای آمریکا',
@@ -35,7 +35,7 @@ $countries = [
         'alpha_2_code' => 'AS',
         'numeric_code' => '16',
         'latitude_avg' => '-14.3333',
-        'longtitude_avg' => '-170',
+        'longitude_avg' => '-170',
     ],
     [
         'name_fa' => 'آندورا',
@@ -44,7 +44,7 @@ $countries = [
         'alpha_2_code' => 'AD',
         'numeric_code' => '20',
         'latitude_avg' => '42.5',
-        'longtitude_avg' => '1.6',
+        'longitude_avg' => '1.6',
     ],
     [
         'name_fa' => 'آنگولا',
@@ -53,7 +53,7 @@ $countries = [
         'alpha_2_code' => 'AO',
         'numeric_code' => '24',
         'latitude_avg' => '-12.5',
-        'longtitude_avg' => '18.5',
+        'longitude_avg' => '18.5',
     ],
     [
         'name_fa' => 'آنگویلا',
@@ -62,7 +62,7 @@ $countries = [
         'alpha_2_code' => 'AI',
         'numeric_code' => '660',
         'latitude_avg' => '18.25',
-        'longtitude_avg' => '-63.1667',
+        'longitude_avg' => '-63.1667',
     ],
     [
         'name_fa' => 'جنوبگان',
@@ -71,7 +71,7 @@ $countries = [
         'alpha_2_code' => 'AQ',
         'numeric_code' => '10',
         'latitude_avg' => '-90',
-        'longtitude_avg' => '0',
+        'longitude_avg' => '0',
     ],
     [
         'name_fa' => 'آنتیگوا و باربودا',
@@ -80,7 +80,7 @@ $countries = [
         'alpha_2_code' => 'AG',
         'numeric_code' => '28',
         'latitude_avg' => '17.05',
-        'longtitude_avg' => '-61.8',
+        'longitude_avg' => '-61.8',
     ],
     [
         'name_fa' => 'آرژانتین',
@@ -89,7 +89,7 @@ $countries = [
         'alpha_2_code' => 'AR',
         'numeric_code' => '32',
         'latitude_avg' => '-34',
-        'longtitude_avg' => '-64',
+        'longitude_avg' => '-64',
     ],
     [
         'name_fa' => 'ارمنستان',
@@ -98,7 +98,7 @@ $countries = [
         'alpha_2_code' => 'AM',
         'numeric_code' => '51',
         'latitude_avg' => '40',
-        'longtitude_avg' => '45',
+        'longitude_avg' => '45',
     ],
     [
         'name_fa' => 'آروبا',
@@ -107,7 +107,7 @@ $countries = [
         'alpha_2_code' => 'AW',
         'numeric_code' => '533',
         'latitude_avg' => '12.5',
-        'longtitude_avg' => '-69.9667',
+        'longitude_avg' => '-69.9667',
     ],
     [
         'name_fa' => 'استرالیا',
@@ -116,7 +116,7 @@ $countries = [
         'alpha_2_code' => 'AU',
         'numeric_code' => '36',
         'latitude_avg' => '-27',
-        'longtitude_avg' => '133',
+        'longitude_avg' => '133',
     ],
     [
         'name_fa' => 'اتریش',
@@ -125,7 +125,7 @@ $countries = [
         'alpha_2_code' => 'AT',
         'numeric_code' => '40',
         'latitude_avg' => '47.3333',
-        'longtitude_avg' => '13.3333',
+        'longitude_avg' => '13.3333',
     ],
     [
         'name_fa' => 'جمهوری آذربایجان',
@@ -134,7 +134,7 @@ $countries = [
         'alpha_2_code' => 'AZ',
         'numeric_code' => '31',
         'latitude_avg' => '40.5',
-        'longtitude_avg' => '47.5',
+        'longitude_avg' => '47.5',
     ],
     [
         'name_fa' => 'باهاما',
@@ -143,7 +143,7 @@ $countries = [
         'alpha_2_code' => 'BS',
         'numeric_code' => '44',
         'latitude_avg' => '24.25',
-        'longtitude_avg' => '-76',
+        'longitude_avg' => '-76',
     ],
     [
         'name_fa' => 'بحرین',
@@ -152,7 +152,7 @@ $countries = [
         'alpha_2_code' => 'BH',
         'numeric_code' => '48',
         'latitude_avg' => '26',
-        'longtitude_avg' => '50.55',
+        'longitude_avg' => '50.55',
     ],
     [
         'name_fa' => 'بنگلادش',
@@ -161,7 +161,7 @@ $countries = [
         'alpha_2_code' => 'BD',
         'numeric_code' => '50',
         'latitude_avg' => '24',
-        'longtitude_avg' => '90',
+        'longitude_avg' => '90',
     ],
     [
         'name_fa' => 'باربادوس',
@@ -170,7 +170,7 @@ $countries = [
         'alpha_2_code' => 'BB',
         'numeric_code' => '52',
         'latitude_avg' => '13.1667',
-        'longtitude_avg' => '-59.5333',
+        'longitude_avg' => '-59.5333',
     ],
     [
         'name_fa' => 'بلاروس',
@@ -179,7 +179,7 @@ $countries = [
         'alpha_2_code' => 'BY',
         'numeric_code' => '112',
         'latitude_avg' => '53',
-        'longtitude_avg' => '28',
+        'longitude_avg' => '28',
     ],
     [
         'name_fa' => 'بلژیک',
@@ -188,7 +188,7 @@ $countries = [
         'alpha_2_code' => 'BE',
         'numeric_code' => '56',
         'latitude_avg' => '50.8333',
-        'longtitude_avg' => '4',
+        'longitude_avg' => '4',
     ],
     [
         'name_fa' => 'بلیز',
@@ -197,7 +197,7 @@ $countries = [
         'alpha_2_code' => 'BZ',
         'numeric_code' => '84',
         'latitude_avg' => '17.25',
-        'longtitude_avg' => '-88.75',
+        'longitude_avg' => '-88.75',
     ],
     [
         'name_fa' => 'بنین',
@@ -206,7 +206,7 @@ $countries = [
         'alpha_2_code' => 'BJ',
         'numeric_code' => '204',
         'latitude_avg' => '9.5',
-        'longtitude_avg' => '2.25',
+        'longitude_avg' => '2.25',
     ],
     [
         'name_fa' => 'برمودا',
@@ -215,7 +215,7 @@ $countries = [
         'alpha_2_code' => 'BM',
         'numeric_code' => '60',
         'latitude_avg' => '32.3333',
-        'longtitude_avg' => '-64.75',
+        'longitude_avg' => '-64.75',
     ],
     [
         'name_fa' => 'پادشاهی بوتان',
@@ -224,7 +224,7 @@ $countries = [
         'alpha_2_code' => 'BT',
         'numeric_code' => '64',
         'latitude_avg' => '27.5',
-        'longtitude_avg' => '90.5',
+        'longitude_avg' => '90.5',
     ],
     [
         'name_fa' => 'بولیوی',
@@ -233,7 +233,7 @@ $countries = [
         'alpha_2_code' => 'BO',
         'numeric_code' => '68',
         'latitude_avg' => '-17',
-        'longtitude_avg' => '-65',
+        'longitude_avg' => '-65',
     ],
     [
         'name_fa' => 'بوسنی و هرزگوین',
@@ -242,7 +242,7 @@ $countries = [
         'alpha_2_code' => 'BA',
         'numeric_code' => '70',
         'latitude_avg' => '44',
-        'longtitude_avg' => '18',
+        'longitude_avg' => '18',
     ],
     [
         'name_fa' => 'بوتسوانا',
@@ -251,7 +251,7 @@ $countries = [
         'alpha_2_code' => 'BW',
         'numeric_code' => '72',
         'latitude_avg' => '-22',
-        'longtitude_avg' => '24',
+        'longitude_avg' => '24',
     ],
     [
         'name_fa' => 'جزیره بووه',
@@ -260,7 +260,7 @@ $countries = [
         'alpha_2_code' => 'BV',
         'numeric_code' => '74',
         'latitude_avg' => '-54.4333',
-        'longtitude_avg' => '3.4',
+        'longitude_avg' => '3.4',
     ],
     [
         'name_fa' => 'برزیل',
@@ -269,7 +269,7 @@ $countries = [
         'alpha_2_code' => 'BR',
         'numeric_code' => '76',
         'latitude_avg' => '-10',
-        'longtitude_avg' => '-55',
+        'longitude_avg' => '-55',
     ],
     [
         'name_fa' => 'قلمرو اقیانوس هند بریتانیا',
@@ -278,7 +278,7 @@ $countries = [
         'alpha_2_code' => 'IO',
         'numeric_code' => '86',
         'latitude_avg' => '-6',
-        'longtitude_avg' => '71.5',
+        'longitude_avg' => '71.5',
     ],
     [
         'name_fa' => 'برونئی',
@@ -287,7 +287,7 @@ $countries = [
         'alpha_2_code' => 'BN',
         'numeric_code' => '96',
         'latitude_avg' => '4.5',
-        'longtitude_avg' => '114.6667',
+        'longitude_avg' => '114.6667',
     ],
     [
         'name_fa' => 'بلغارستان',
@@ -296,7 +296,7 @@ $countries = [
         'alpha_2_code' => 'BG',
         'numeric_code' => '100',
         'latitude_avg' => '43',
-        'longtitude_avg' => '25',
+        'longitude_avg' => '25',
     ],
     [
         'name_fa' => 'بورکینافاسو',
@@ -305,7 +305,7 @@ $countries = [
         'alpha_2_code' => 'BF',
         'numeric_code' => '854',
         'latitude_avg' => '13',
-        'longtitude_avg' => '-2',
+        'longitude_avg' => '-2',
     ],
     [
         'name_fa' => 'بوروندی',
@@ -314,7 +314,7 @@ $countries = [
         'alpha_2_code' => 'BI',
         'numeric_code' => '108',
         'latitude_avg' => '-3.5',
-        'longtitude_avg' => '30',
+        'longitude_avg' => '30',
     ],
     [
         'name_fa' => 'کامبوج',
@@ -323,7 +323,7 @@ $countries = [
         'alpha_2_code' => 'KH',
         'numeric_code' => '116',
         'latitude_avg' => '13',
-        'longtitude_avg' => '105',
+        'longitude_avg' => '105',
     ],
     [
         'name_fa' => 'کامرون',
@@ -332,7 +332,7 @@ $countries = [
         'alpha_2_code' => 'CM',
         'numeric_code' => '120',
         'latitude_avg' => '6',
-        'longtitude_avg' => '12',
+        'longitude_avg' => '12',
     ],
     [
         'name_fa' => 'کانادا',
@@ -341,7 +341,7 @@ $countries = [
         'alpha_2_code' => 'CA',
         'numeric_code' => '124',
         'latitude_avg' => '60',
-        'longtitude_avg' => '-95',
+        'longitude_avg' => '-95',
     ],
     [
         'name_fa' => 'کیپ ورد',
@@ -350,7 +350,7 @@ $countries = [
         'alpha_2_code' => 'CV',
         'numeric_code' => '132',
         'latitude_avg' => '16',
-        'longtitude_avg' => '-24',
+        'longitude_avg' => '-24',
     ],
     [
         'name_fa' => 'جزایر کیمن',
@@ -359,7 +359,7 @@ $countries = [
         'alpha_2_code' => 'KY',
         'numeric_code' => '136',
         'latitude_avg' => '19.5',
-        'longtitude_avg' => '-80.5',
+        'longitude_avg' => '-80.5',
     ],
     [
         'name_fa' => 'جمهوری آفریقای مرکزی',
@@ -368,7 +368,7 @@ $countries = [
         'alpha_2_code' => 'CF',
         'numeric_code' => '140',
         'latitude_avg' => '7',
-        'longtitude_avg' => '21',
+        'longitude_avg' => '21',
     ],
     [
         'name_fa' => 'چاد',
@@ -377,7 +377,7 @@ $countries = [
         'alpha_2_code' => 'TD',
         'numeric_code' => '148',
         'latitude_avg' => '15',
-        'longtitude_avg' => '19',
+        'longitude_avg' => '19',
     ],
     [
         'name_fa' => 'شیلی',
@@ -386,7 +386,7 @@ $countries = [
         'alpha_2_code' => 'CL',
         'numeric_code' => '152',
         'latitude_avg' => '-30',
-        'longtitude_avg' => '-71',
+        'longitude_avg' => '-71',
     ],
     [
         'name_fa' => 'چین',
@@ -395,7 +395,7 @@ $countries = [
         'alpha_2_code' => 'CN',
         'numeric_code' => '156',
         'latitude_avg' => '35',
-        'longtitude_avg' => '105',
+        'longitude_avg' => '105',
     ],
     [
         'name_fa' => 'جزیره کریسمس',
@@ -404,7 +404,7 @@ $countries = [
         'alpha_2_code' => 'CX',
         'numeric_code' => '162',
         'latitude_avg' => '-10.5',
-        'longtitude_avg' => '105.6667',
+        'longitude_avg' => '105.6667',
     ],
     [
         'name_fa' => 'جزایر کوکوس',
@@ -413,7 +413,7 @@ $countries = [
         'alpha_2_code' => 'CC',
         'numeric_code' => '166',
         'latitude_avg' => '-12.5',
-        'longtitude_avg' => '96.8333',
+        'longitude_avg' => '96.8333',
     ],
     [
         'name_fa' => 'کلمبیا',
@@ -422,7 +422,7 @@ $countries = [
         'alpha_2_code' => 'CO',
         'numeric_code' => '170',
         'latitude_avg' => '4',
-        'longtitude_avg' => '-72',
+        'longitude_avg' => '-72',
     ],
     [
         'name_fa' => 'کومور',
@@ -431,7 +431,7 @@ $countries = [
         'alpha_2_code' => 'KM',
         'numeric_code' => '174',
         'latitude_avg' => '-12.1667',
-        'longtitude_avg' => '44.25',
+        'longitude_avg' => '44.25',
     ],
     [
         'name_fa' => 'جمهوری کنگو',
@@ -440,7 +440,7 @@ $countries = [
         'alpha_2_code' => 'CG',
         'numeric_code' => '178',
         'latitude_avg' => '-1',
-        'longtitude_avg' => '15',
+        'longitude_avg' => '15',
     ],
     [
         'name_fa' => 'جمهوری دموکراتیک کنگو',
@@ -449,7 +449,7 @@ $countries = [
         'alpha_2_code' => 'CD',
         'numeric_code' => '180',
         'latitude_avg' => '0',
-        'longtitude_avg' => '25',
+        'longitude_avg' => '25',
     ],
     [
         'name_fa' => 'جزایر کوک',
@@ -458,7 +458,7 @@ $countries = [
         'alpha_2_code' => 'CK',
         'numeric_code' => '184',
         'latitude_avg' => '-21.2333',
-        'longtitude_avg' => '-159.7667',
+        'longitude_avg' => '-159.7667',
     ],
     [
         'name_fa' => 'کاستاریکا',
@@ -467,7 +467,7 @@ $countries = [
         'alpha_2_code' => 'CR',
         'numeric_code' => '188',
         'latitude_avg' => '10',
-        'longtitude_avg' => '-84',
+        'longitude_avg' => '-84',
     ],
     [
         'name_fa' => 'ساحل عاج',
@@ -476,7 +476,7 @@ $countries = [
         'alpha_2_code' => 'CI',
         'numeric_code' => '384',
         'latitude_avg' => '8',
-        'longtitude_avg' => '-5',
+        'longitude_avg' => '-5',
     ],
     [
         'name_fa' => 'کرواسی',
@@ -485,7 +485,7 @@ $countries = [
         'alpha_2_code' => 'HR',
         'numeric_code' => '191',
         'latitude_avg' => '45.1667',
-        'longtitude_avg' => '15.5',
+        'longitude_avg' => '15.5',
     ],
     [
         'name_fa' => 'کوبا',
@@ -494,7 +494,7 @@ $countries = [
         'alpha_2_code' => 'CU',
         'numeric_code' => '192',
         'latitude_avg' => '21.5',
-        'longtitude_avg' => '-80',
+        'longitude_avg' => '-80',
     ],
     [
         'name_fa' => 'قبرس',
@@ -503,7 +503,7 @@ $countries = [
         'alpha_2_code' => 'CY',
         'numeric_code' => '196',
         'latitude_avg' => '35',
-        'longtitude_avg' => '33',
+        'longitude_avg' => '33',
     ],
     [
         'name_fa' => 'جمهوری چک',
@@ -512,7 +512,7 @@ $countries = [
         'alpha_2_code' => 'CZ',
         'numeric_code' => '203',
         'latitude_avg' => '49.75',
-        'longtitude_avg' => '15.5',
+        'longitude_avg' => '15.5',
     ],
     [
         'name_fa' => 'دانمارک',
@@ -521,7 +521,7 @@ $countries = [
         'alpha_2_code' => 'DK',
         'numeric_code' => '208',
         'latitude_avg' => '56',
-        'longtitude_avg' => '10',
+        'longitude_avg' => '10',
     ],
     [
         'name_fa' => 'جیبوتی',
@@ -530,7 +530,7 @@ $countries = [
         'alpha_2_code' => 'DJ',
         'numeric_code' => '262',
         'latitude_avg' => '11.5',
-        'longtitude_avg' => '43',
+        'longitude_avg' => '43',
     ],
     [
         'name_fa' => 'دومینیکا',
@@ -539,7 +539,7 @@ $countries = [
         'alpha_2_code' => 'DM',
         'numeric_code' => '212',
         'latitude_avg' => '15.4167',
-        'longtitude_avg' => '-61.3333',
+        'longitude_avg' => '-61.3333',
     ],
     [
         'name_fa' => 'جمهوری دومینیکن',
@@ -548,7 +548,7 @@ $countries = [
         'alpha_2_code' => 'DO',
         'numeric_code' => '214',
         'latitude_avg' => '19',
-        'longtitude_avg' => '-70.6667',
+        'longitude_avg' => '-70.6667',
     ],
     [
         'name_fa' => 'اکوادور',
@@ -557,7 +557,7 @@ $countries = [
         'alpha_2_code' => 'EC',
         'numeric_code' => '218',
         'latitude_avg' => '-2',
-        'longtitude_avg' => '-77.5',
+        'longitude_avg' => '-77.5',
     ],
     [
         'name_fa' => 'مصر',
@@ -566,7 +566,7 @@ $countries = [
         'alpha_2_code' => 'EG',
         'numeric_code' => '818',
         'latitude_avg' => '27',
-        'longtitude_avg' => '30',
+        'longitude_avg' => '30',
     ],
     [
         'name_fa' => 'السالوادور',
@@ -575,7 +575,7 @@ $countries = [
         'alpha_2_code' => 'SV',
         'numeric_code' => '222',
         'latitude_avg' => '13.8333',
-        'longtitude_avg' => '-88.9167',
+        'longitude_avg' => '-88.9167',
     ],
     [
         'name_fa' => 'گینه استوایی',
@@ -584,7 +584,7 @@ $countries = [
         'alpha_2_code' => 'GQ',
         'numeric_code' => '226',
         'latitude_avg' => '2',
-        'longtitude_avg' => '10',
+        'longitude_avg' => '10',
     ],
     [
         'name_fa' => 'اریتره',
@@ -593,7 +593,7 @@ $countries = [
         'alpha_2_code' => 'ER',
         'numeric_code' => '232',
         'latitude_avg' => '15',
-        'longtitude_avg' => '39',
+        'longitude_avg' => '39',
     ],
     [
         'name_fa' => 'استونی',
@@ -602,7 +602,7 @@ $countries = [
         'alpha_2_code' => 'EE',
         'numeric_code' => '233',
         'latitude_avg' => '59',
-        'longtitude_avg' => '26',
+        'longitude_avg' => '26',
     ],
     [
         'name_fa' => 'اتیوپی',
@@ -611,7 +611,7 @@ $countries = [
         'alpha_2_code' => 'ET',
         'numeric_code' => '231',
         'latitude_avg' => '8',
-        'longtitude_avg' => '38',
+        'longitude_avg' => '38',
     ],
     [
         'name_fa' => 'جزایر فالکند',
@@ -620,7 +620,7 @@ $countries = [
         'alpha_2_code' => 'FK',
         'numeric_code' => '238',
         'latitude_avg' => '-51.75',
-        'longtitude_avg' => '-59',
+        'longitude_avg' => '-59',
     ],
     [
         'name_fa' => 'جزایر فارو',
@@ -629,7 +629,7 @@ $countries = [
         'alpha_2_code' => 'FO',
         'numeric_code' => '234',
         'latitude_avg' => '62',
-        'longtitude_avg' => '-7',
+        'longitude_avg' => '-7',
     ],
     [
         'name_fa' => 'فیجی',
@@ -638,7 +638,7 @@ $countries = [
         'alpha_2_code' => 'FJ',
         'numeric_code' => '242',
         'latitude_avg' => '-18',
-        'longtitude_avg' => '175',
+        'longitude_avg' => '175',
     ],
     [
         'name_fa' => 'فنلاند',
@@ -647,7 +647,7 @@ $countries = [
         'alpha_2_code' => 'FI',
         'numeric_code' => '246',
         'latitude_avg' => '64',
-        'longtitude_avg' => '26',
+        'longitude_avg' => '26',
     ],
     [
         'name_fa' => 'فرانسه',
@@ -656,7 +656,7 @@ $countries = [
         'alpha_2_code' => 'FR',
         'numeric_code' => '250',
         'latitude_avg' => '46',
-        'longtitude_avg' => '2',
+        'longitude_avg' => '2',
     ],
     [
         'name_fa' => 'گویان فرانسه',
@@ -665,7 +665,7 @@ $countries = [
         'alpha_2_code' => 'GF',
         'numeric_code' => '254',
         'latitude_avg' => '4',
-        'longtitude_avg' => '-53',
+        'longitude_avg' => '-53',
     ],
     [
         'name_fa' => 'پولی‌نزی فرانسه',
@@ -674,7 +674,7 @@ $countries = [
         'alpha_2_code' => 'PF',
         'numeric_code' => '258',
         'latitude_avg' => '-15',
-        'longtitude_avg' => '-140',
+        'longitude_avg' => '-140',
     ],
     [
         'name_fa' => 'سرزمین‌های قطب جنوب و جنوبی فرانسه',
@@ -683,7 +683,7 @@ $countries = [
         'alpha_2_code' => 'TF',
         'numeric_code' => '260',
         'latitude_avg' => '-43',
-        'longtitude_avg' => '67',
+        'longitude_avg' => '67',
     ],
     [
         'name_fa' => 'گابون',
@@ -692,7 +692,7 @@ $countries = [
         'alpha_2_code' => 'GA',
         'numeric_code' => '266',
         'latitude_avg' => '-1',
-        'longtitude_avg' => '11.75',
+        'longitude_avg' => '11.75',
     ],
     [
         'name_fa' => 'گامبیا',
@@ -701,7 +701,7 @@ $countries = [
         'alpha_2_code' => 'GM',
         'numeric_code' => '270',
         'latitude_avg' => '13.4667',
-        'longtitude_avg' => '-16.5667',
+        'longitude_avg' => '-16.5667',
     ],
     [
         'name_fa' => 'گرجستان',
@@ -710,7 +710,7 @@ $countries = [
         'alpha_2_code' => 'GE',
         'numeric_code' => '268',
         'latitude_avg' => '42',
-        'longtitude_avg' => '43.5',
+        'longitude_avg' => '43.5',
     ],
     [
         'name_fa' => 'آلمان',
@@ -719,7 +719,7 @@ $countries = [
         'alpha_2_code' => 'DE',
         'numeric_code' => '276',
         'latitude_avg' => '51',
-        'longtitude_avg' => '9',
+        'longitude_avg' => '9',
     ],
     [
         'name_fa' => 'غنا',
@@ -728,7 +728,7 @@ $countries = [
         'alpha_2_code' => 'GH',
         'numeric_code' => '288',
         'latitude_avg' => '8',
-        'longtitude_avg' => '-2',
+        'longitude_avg' => '-2',
     ],
     [
         'name_fa' => 'جبل طارق',
@@ -737,7 +737,7 @@ $countries = [
         'alpha_2_code' => 'GI',
         'numeric_code' => '292',
         'latitude_avg' => '36.1833',
-        'longtitude_avg' => '-5.3667',
+        'longitude_avg' => '-5.3667',
     ],
     [
         'name_fa' => 'یونان',
@@ -746,7 +746,7 @@ $countries = [
         'alpha_2_code' => 'GR',
         'numeric_code' => '300',
         'latitude_avg' => '39',
-        'longtitude_avg' => '22',
+        'longitude_avg' => '22',
     ],
     [
         'name_fa' => 'گرینلند',
@@ -755,7 +755,7 @@ $countries = [
         'alpha_2_code' => 'GL',
         'numeric_code' => '304',
         'latitude_avg' => '72',
-        'longtitude_avg' => '-40',
+        'longitude_avg' => '-40',
     ],
     [
         'name_fa' => 'گرنادا',
@@ -764,7 +764,7 @@ $countries = [
         'alpha_2_code' => 'GD',
         'numeric_code' => '308',
         'latitude_avg' => '12.1167',
-        'longtitude_avg' => '-61.6667',
+        'longitude_avg' => '-61.6667',
     ],
     [
         'name_fa' => 'جزیره گوادلوپ',
@@ -773,7 +773,7 @@ $countries = [
         'alpha_2_code' => 'GP',
         'numeric_code' => '312',
         'latitude_avg' => '16.25',
-        'longtitude_avg' => '-61.5833',
+        'longitude_avg' => '-61.5833',
     ],
     [
         'name_fa' => 'گوآم',
@@ -782,7 +782,7 @@ $countries = [
         'alpha_2_code' => 'GU',
         'numeric_code' => '316',
         'latitude_avg' => '13.4667',
-        'longtitude_avg' => '144.7833',
+        'longitude_avg' => '144.7833',
     ],
     [
         'name_fa' => 'گواتمالا',
@@ -791,7 +791,7 @@ $countries = [
         'alpha_2_code' => 'GT',
         'numeric_code' => '320',
         'latitude_avg' => '15.5',
-        'longtitude_avg' => '-90.25',
+        'longitude_avg' => '-90.25',
     ],
     [
         'name_fa' => 'گرنزی',
@@ -800,7 +800,7 @@ $countries = [
         'alpha_2_code' => 'GG',
         'numeric_code' => '831',
         'latitude_avg' => '49.5',
-        'longtitude_avg' => '-2.56',
+        'longitude_avg' => '-2.56',
     ],
     [
         'name_fa' => 'گینه',
@@ -809,7 +809,7 @@ $countries = [
         'alpha_2_code' => 'GN',
         'numeric_code' => '324',
         'latitude_avg' => '11',
-        'longtitude_avg' => '-10',
+        'longitude_avg' => '-10',
     ],
     [
         'name_fa' => 'گینه بیسائو',
@@ -818,7 +818,7 @@ $countries = [
         'alpha_2_code' => 'GW',
         'numeric_code' => '624',
         'latitude_avg' => '12',
-        'longtitude_avg' => '-15',
+        'longitude_avg' => '-15',
     ],
     [
         'name_fa' => 'گویان',
@@ -827,7 +827,7 @@ $countries = [
         'alpha_2_code' => 'GY',
         'numeric_code' => '328',
         'latitude_avg' => '5',
-        'longtitude_avg' => '-59',
+        'longitude_avg' => '-59',
     ],
     [
         'name_fa' => 'هائیتی',
@@ -836,7 +836,7 @@ $countries = [
         'alpha_2_code' => 'HT',
         'numeric_code' => '332',
         'latitude_avg' => '19',
-        'longtitude_avg' => '-72.4167',
+        'longitude_avg' => '-72.4167',
     ],
     [
         'name_fa' => 'جزیره هرد و جزایر مک‌دونالد',
@@ -845,7 +845,7 @@ $countries = [
         'alpha_2_code' => 'HM',
         'numeric_code' => '334',
         'latitude_avg' => '-53.1',
-        'longtitude_avg' => '72.5167',
+        'longitude_avg' => '72.5167',
     ],
     [
         'name_fa' => 'واتیکان',
@@ -854,7 +854,7 @@ $countries = [
         'alpha_2_code' => 'VA',
         'numeric_code' => '336',
         'latitude_avg' => '41.9',
-        'longtitude_avg' => '12.45',
+        'longitude_avg' => '12.45',
     ],
     [
         'name_fa' => 'هندوراس',
@@ -863,7 +863,7 @@ $countries = [
         'alpha_2_code' => 'HN',
         'numeric_code' => '340',
         'latitude_avg' => '15',
-        'longtitude_avg' => '-86.5',
+        'longitude_avg' => '-86.5',
     ],
     [
         'name_fa' => 'هنگ کنگ',
@@ -872,7 +872,7 @@ $countries = [
         'alpha_2_code' => 'HK',
         'numeric_code' => '344',
         'latitude_avg' => '22.25',
-        'longtitude_avg' => '114.1667',
+        'longitude_avg' => '114.1667',
     ],
     [
         'name_fa' => 'مجارستان',
@@ -881,7 +881,7 @@ $countries = [
         'alpha_2_code' => 'HU',
         'numeric_code' => '348',
         'latitude_avg' => '47',
-        'longtitude_avg' => '20',
+        'longitude_avg' => '20',
     ],
     [
         'name_fa' => 'ایسلند',
@@ -890,7 +890,7 @@ $countries = [
         'alpha_2_code' => 'IS',
         'numeric_code' => '352',
         'latitude_avg' => '65',
-        'longtitude_avg' => '-18',
+        'longitude_avg' => '-18',
     ],
     [
         'name_fa' => 'هند',
@@ -899,7 +899,7 @@ $countries = [
         'alpha_2_code' => 'IN',
         'numeric_code' => '356',
         'latitude_avg' => '20',
-        'longtitude_avg' => '77',
+        'longitude_avg' => '77',
     ],
     [
         'name_fa' => 'اندونزی',
@@ -908,7 +908,7 @@ $countries = [
         'alpha_2_code' => 'ID',
         'numeric_code' => '360',
         'latitude_avg' => '-5',
-        'longtitude_avg' => '120',
+        'longitude_avg' => '120',
     ],
     [
         'name_fa' => 'عراق',
@@ -917,7 +917,7 @@ $countries = [
         'alpha_2_code' => 'IQ',
         'numeric_code' => '368',
         'latitude_avg' => '33',
-        'longtitude_avg' => '44',
+        'longitude_avg' => '44',
     ],
     [
         'name_fa' => 'جمهوری ایرلند',
@@ -926,7 +926,7 @@ $countries = [
         'alpha_2_code' => 'IE',
         'numeric_code' => '372',
         'latitude_avg' => '53',
-        'longtitude_avg' => '-8',
+        'longitude_avg' => '-8',
     ],
     [
         'name_fa' => 'جزیره من',
@@ -935,7 +935,7 @@ $countries = [
         'alpha_2_code' => 'IM',
         'numeric_code' => '833',
         'latitude_avg' => '54.23',
-        'longtitude_avg' => '-4.55',
+        'longitude_avg' => '-4.55',
     ],
     [
         'name_fa' => 'اسرائیل',
@@ -944,7 +944,7 @@ $countries = [
         'alpha_2_code' => 'IL',
         'numeric_code' => '376',
         'latitude_avg' => '31.5',
-        'longtitude_avg' => '34.75',
+        'longitude_avg' => '34.75',
     ],
     [
         'name_fa' => 'ایتالیا',
@@ -953,7 +953,7 @@ $countries = [
         'alpha_2_code' => 'IT',
         'numeric_code' => '380',
         'latitude_avg' => '42.8333',
-        'longtitude_avg' => '12.8333',
+        'longitude_avg' => '12.8333',
     ],
     [
         'name_fa' => 'جامائیکا',
@@ -962,7 +962,7 @@ $countries = [
         'alpha_2_code' => 'JM',
         'numeric_code' => '388',
         'latitude_avg' => '18.25',
-        'longtitude_avg' => '-77.5',
+        'longitude_avg' => '-77.5',
     ],
     [
         'name_fa' => 'ژاپن',
@@ -971,7 +971,7 @@ $countries = [
         'alpha_2_code' => 'JP',
         'numeric_code' => '392',
         'latitude_avg' => '36',
-        'longtitude_avg' => '138',
+        'longitude_avg' => '138',
     ],
     [
         'name_fa' => 'جرسی',
@@ -980,7 +980,7 @@ $countries = [
         'alpha_2_code' => 'JE',
         'numeric_code' => '832',
         'latitude_avg' => '49.21',
-        'longtitude_avg' => '-2.13',
+        'longitude_avg' => '-2.13',
     ],
     [
         'name_fa' => 'اردن',
@@ -989,7 +989,7 @@ $countries = [
         'alpha_2_code' => 'JO',
         'numeric_code' => '400',
         'latitude_avg' => '31',
-        'longtitude_avg' => '36',
+        'longitude_avg' => '36',
     ],
     [
         'name_fa' => 'قزاقستان',
@@ -998,7 +998,7 @@ $countries = [
         'alpha_2_code' => 'KZ',
         'numeric_code' => '398',
         'latitude_avg' => '48',
-        'longtitude_avg' => '68',
+        'longitude_avg' => '68',
     ],
     [
         'name_fa' => 'کنیا',
@@ -1007,7 +1007,7 @@ $countries = [
         'alpha_2_code' => 'KE',
         'numeric_code' => '404',
         'latitude_avg' => '1',
-        'longtitude_avg' => '38',
+        'longitude_avg' => '38',
     ],
     [
         'name_fa' => 'کیریباتی',
@@ -1016,7 +1016,7 @@ $countries = [
         'alpha_2_code' => 'KI',
         'numeric_code' => '296',
         'latitude_avg' => '1.4167',
-        'longtitude_avg' => '173',
+        'longitude_avg' => '173',
     ],
     [
         'name_fa' => 'کره شمالی',
@@ -1025,7 +1025,7 @@ $countries = [
         'alpha_2_code' => 'KP',
         'numeric_code' => '408',
         'latitude_avg' => '40',
-        'longtitude_avg' => '127',
+        'longitude_avg' => '127',
     ],
     [
         'name_fa' => 'کره جنوبی',
@@ -1034,7 +1034,7 @@ $countries = [
         'alpha_2_code' => 'KR',
         'numeric_code' => '410',
         'latitude_avg' => '37',
-        'longtitude_avg' => '127.5',
+        'longitude_avg' => '127.5',
     ],
     [
         'name_fa' => 'کویت',
@@ -1043,7 +1043,7 @@ $countries = [
         'alpha_2_code' => 'KW',
         'numeric_code' => '414',
         'latitude_avg' => '29.3375',
-        'longtitude_avg' => '47.6581',
+        'longitude_avg' => '47.6581',
     ],
     [
         'name_fa' => 'قرقیزستان',
@@ -1052,7 +1052,7 @@ $countries = [
         'alpha_2_code' => 'KG',
         'numeric_code' => '417',
         'latitude_avg' => '41',
-        'longtitude_avg' => '75',
+        'longitude_avg' => '75',
     ],
     [
         'name_fa' => 'لائوس',
@@ -1061,7 +1061,7 @@ $countries = [
         'alpha_2_code' => 'LA',
         'numeric_code' => '418',
         'latitude_avg' => '18',
-        'longtitude_avg' => '105',
+        'longitude_avg' => '105',
     ],
     [
         'name_fa' => 'لتونی',
@@ -1070,7 +1070,7 @@ $countries = [
         'alpha_2_code' => 'LV',
         'numeric_code' => '428',
         'latitude_avg' => '57',
-        'longtitude_avg' => '25',
+        'longitude_avg' => '25',
     ],
     [
         'name_fa' => 'لبنان',
@@ -1079,7 +1079,7 @@ $countries = [
         'alpha_2_code' => 'LB',
         'numeric_code' => '422',
         'latitude_avg' => '33.8333',
-        'longtitude_avg' => '35.8333',
+        'longitude_avg' => '35.8333',
     ],
     [
         'name_fa' => 'لسوتو',
@@ -1088,7 +1088,7 @@ $countries = [
         'alpha_2_code' => 'LS',
         'numeric_code' => '426',
         'latitude_avg' => '-29.5',
-        'longtitude_avg' => '28.5',
+        'longitude_avg' => '28.5',
     ],
     [
         'name_fa' => 'لیبریا',
@@ -1097,7 +1097,7 @@ $countries = [
         'alpha_2_code' => 'LR',
         'numeric_code' => '430',
         'latitude_avg' => '6.5',
-        'longtitude_avg' => '-9.5',
+        'longitude_avg' => '-9.5',
     ],
     [
         'name_fa' => 'لیختن‌اشتاین',
@@ -1106,7 +1106,7 @@ $countries = [
         'alpha_2_code' => 'LI',
         'numeric_code' => '438',
         'latitude_avg' => '47.1667',
-        'longtitude_avg' => '9.5333',
+        'longitude_avg' => '9.5333',
     ],
     [
         'name_fa' => 'لیتوانی',
@@ -1115,7 +1115,7 @@ $countries = [
         'alpha_2_code' => 'LT',
         'numeric_code' => '440',
         'latitude_avg' => '56',
-        'longtitude_avg' => '24',
+        'longitude_avg' => '24',
     ],
     [
         'name_fa' => 'لوکزامبورگ',
@@ -1124,7 +1124,7 @@ $countries = [
         'alpha_2_code' => 'LU',
         'numeric_code' => '442',
         'latitude_avg' => '49.75',
-        'longtitude_avg' => '6.1667',
+        'longitude_avg' => '6.1667',
     ],
     [
         'name_fa' => 'ماکائو',
@@ -1133,7 +1133,7 @@ $countries = [
         'alpha_2_code' => 'MO',
         'numeric_code' => '446',
         'latitude_avg' => '22.1667',
-        'longtitude_avg' => '113.55',
+        'longitude_avg' => '113.55',
     ],
     [
         'name_fa' => 'مقدونیه',
@@ -1142,7 +1142,7 @@ $countries = [
         'alpha_2_code' => 'MK',
         'numeric_code' => '807',
         'latitude_avg' => '41.8333',
-        'longtitude_avg' => '22',
+        'longitude_avg' => '22',
     ],
     [
         'name_fa' => 'ماداگاسکار',
@@ -1151,7 +1151,7 @@ $countries = [
         'alpha_2_code' => 'MG',
         'numeric_code' => '450',
         'latitude_avg' => '-20',
-        'longtitude_avg' => '47',
+        'longitude_avg' => '47',
     ],
     [
         'name_fa' => 'مالاوی',
@@ -1160,7 +1160,7 @@ $countries = [
         'alpha_2_code' => 'MW',
         'numeric_code' => '454',
         'latitude_avg' => '-13.5',
-        'longtitude_avg' => '34',
+        'longitude_avg' => '34',
     ],
     [
         'name_fa' => 'مالزی',
@@ -1169,7 +1169,7 @@ $countries = [
         'alpha_2_code' => 'MY',
         'numeric_code' => '458',
         'latitude_avg' => '2.5',
-        'longtitude_avg' => '112.5',
+        'longitude_avg' => '112.5',
     ],
     [
         'name_fa' => 'مالدیو',
@@ -1178,7 +1178,7 @@ $countries = [
         'alpha_2_code' => 'MV',
         'numeric_code' => '462',
         'latitude_avg' => '3.25',
-        'longtitude_avg' => '73',
+        'longitude_avg' => '73',
     ],
     [
         'name_fa' => 'مالی',
@@ -1187,7 +1187,7 @@ $countries = [
         'alpha_2_code' => 'ML',
         'numeric_code' => '466',
         'latitude_avg' => '17',
-        'longtitude_avg' => '-4',
+        'longitude_avg' => '-4',
     ],
     [
         'name_fa' => 'مالت',
@@ -1196,7 +1196,7 @@ $countries = [
         'alpha_2_code' => 'MT',
         'numeric_code' => '470',
         'latitude_avg' => '35.8333',
-        'longtitude_avg' => '14.5833',
+        'longitude_avg' => '14.5833',
     ],
     [
         'name_fa' => 'جزایر مارشال',
@@ -1205,7 +1205,7 @@ $countries = [
         'alpha_2_code' => 'MH',
         'numeric_code' => '584',
         'latitude_avg' => '9',
-        'longtitude_avg' => '168',
+        'longitude_avg' => '168',
     ],
     [
         'name_fa' => 'مارتینیک',
@@ -1214,7 +1214,7 @@ $countries = [
         'alpha_2_code' => 'MQ',
         'numeric_code' => '474',
         'latitude_avg' => '14.6667',
-        'longtitude_avg' => '-61',
+        'longitude_avg' => '-61',
     ],
     [
         'name_fa' => 'موریتانی',
@@ -1223,7 +1223,7 @@ $countries = [
         'alpha_2_code' => 'MR',
         'numeric_code' => '478',
         'latitude_avg' => '20',
-        'longtitude_avg' => '-12',
+        'longitude_avg' => '-12',
     ],
     [
         'name_fa' => 'موریس',
@@ -1232,7 +1232,7 @@ $countries = [
         'alpha_2_code' => 'MU',
         'numeric_code' => '480',
         'latitude_avg' => '-20.2833',
-        'longtitude_avg' => '57.55',
+        'longitude_avg' => '57.55',
     ],
     [
         'name_fa' => 'مایوت',
@@ -1241,7 +1241,7 @@ $countries = [
         'alpha_2_code' => 'YT',
         'numeric_code' => '175',
         'latitude_avg' => '-12.8333',
-        'longtitude_avg' => '45.1667',
+        'longitude_avg' => '45.1667',
     ],
     [
         'name_fa' => 'مکزیک',
@@ -1250,7 +1250,7 @@ $countries = [
         'alpha_2_code' => 'MX',
         'numeric_code' => '484',
         'latitude_avg' => '23',
-        'longtitude_avg' => '-102',
+        'longitude_avg' => '-102',
     ],
     [
         'name_fa' => 'ایالات فدرال میکرونزی',
@@ -1259,7 +1259,7 @@ $countries = [
         'alpha_2_code' => 'FM',
         'numeric_code' => '583',
         'latitude_avg' => '6.9167',
-        'longtitude_avg' => '158.25',
+        'longitude_avg' => '158.25',
     ],
     [
         'name_fa' => 'مولداوی',
@@ -1268,7 +1268,7 @@ $countries = [
         'alpha_2_code' => 'MD',
         'numeric_code' => '498',
         'latitude_avg' => '47',
-        'longtitude_avg' => '29',
+        'longitude_avg' => '29',
     ],
     [
         'name_fa' => 'موناکو',
@@ -1277,7 +1277,7 @@ $countries = [
         'alpha_2_code' => 'MC',
         'numeric_code' => '492',
         'latitude_avg' => '43.7333',
-        'longtitude_avg' => '7.4',
+        'longitude_avg' => '7.4',
     ],
     [
         'name_fa' => 'مغولستان',
@@ -1286,7 +1286,7 @@ $countries = [
         'alpha_2_code' => 'MN',
         'numeric_code' => '496',
         'latitude_avg' => '46',
-        'longtitude_avg' => '105',
+        'longitude_avg' => '105',
     ],
     [
         'name_fa' => 'مونته‌نگرو',
@@ -1295,7 +1295,7 @@ $countries = [
         'alpha_2_code' => 'ME',
         'numeric_code' => '499',
         'latitude_avg' => '42',
-        'longtitude_avg' => '19',
+        'longitude_avg' => '19',
     ],
     [
         'name_fa' => 'مونتسرات',
@@ -1304,7 +1304,7 @@ $countries = [
         'alpha_2_code' => 'MS',
         'numeric_code' => '500',
         'latitude_avg' => '16.75',
-        'longtitude_avg' => '-62.2',
+        'longitude_avg' => '-62.2',
     ],
     [
         'name_fa' => 'مراکش',
@@ -1313,7 +1313,7 @@ $countries = [
         'alpha_2_code' => 'MA',
         'numeric_code' => '504',
         'latitude_avg' => '32',
-        'longtitude_avg' => '-5',
+        'longitude_avg' => '-5',
     ],
     [
         'name_fa' => 'موزامبیک',
@@ -1322,7 +1322,7 @@ $countries = [
         'alpha_2_code' => 'MZ',
         'numeric_code' => '508',
         'latitude_avg' => '-18.25',
-        'longtitude_avg' => '35',
+        'longitude_avg' => '35',
     ],
     [
         'name_fa' => 'میانمار',
@@ -1331,7 +1331,7 @@ $countries = [
         'alpha_2_code' => 'MM',
         'numeric_code' => '104',
         'latitude_avg' => '22',
-        'longtitude_avg' => '98',
+        'longitude_avg' => '98',
     ],
     [
         'name_fa' => 'نامیبیا',
@@ -1340,7 +1340,7 @@ $countries = [
         'alpha_2_code' => 'NA',
         'numeric_code' => '516',
         'latitude_avg' => '-22',
-        'longtitude_avg' => '17',
+        'longitude_avg' => '17',
     ],
     [
         'name_fa' => 'نائورو',
@@ -1349,7 +1349,7 @@ $countries = [
         'alpha_2_code' => 'NR',
         'numeric_code' => '520',
         'latitude_avg' => '-0.5333',
-        'longtitude_avg' => '166.9167',
+        'longitude_avg' => '166.9167',
     ],
     [
         'name_fa' => 'نپال',
@@ -1358,7 +1358,7 @@ $countries = [
         'alpha_2_code' => 'NP',
         'numeric_code' => '524',
         'latitude_avg' => '28',
-        'longtitude_avg' => '84',
+        'longitude_avg' => '84',
     ],
     [
         'name_fa' => 'هلند',
@@ -1367,7 +1367,7 @@ $countries = [
         'alpha_2_code' => 'NL',
         'numeric_code' => '528',
         'latitude_avg' => '52.5',
-        'longtitude_avg' => '5.75',
+        'longitude_avg' => '5.75',
     ],
     [
         'name_fa' => 'آنتیل هلند',
@@ -1376,7 +1376,7 @@ $countries = [
         'alpha_2_code' => 'AN',
         'numeric_code' => '530',
         'latitude_avg' => '12.25',
-        'longtitude_avg' => '-68.75',
+        'longitude_avg' => '-68.75',
     ],
     [
         'name_fa' => 'کالدونیای جدید',
@@ -1385,7 +1385,7 @@ $countries = [
         'alpha_2_code' => 'NC',
         'numeric_code' => '540',
         'latitude_avg' => '-21.5',
-        'longtitude_avg' => '165.5',
+        'longitude_avg' => '165.5',
     ],
     [
         'name_fa' => 'نیوزیلند',
@@ -1394,7 +1394,7 @@ $countries = [
         'alpha_2_code' => 'NZ',
         'numeric_code' => '554',
         'latitude_avg' => '-41',
-        'longtitude_avg' => '174',
+        'longitude_avg' => '174',
     ],
     [
         'name_fa' => 'نیکاراگوئه',
@@ -1403,7 +1403,7 @@ $countries = [
         'alpha_2_code' => 'NI',
         'numeric_code' => '558',
         'latitude_avg' => '13',
-        'longtitude_avg' => '-85',
+        'longitude_avg' => '-85',
     ],
     [
         'name_fa' => 'نیجر',
@@ -1412,7 +1412,7 @@ $countries = [
         'alpha_2_code' => 'NE',
         'numeric_code' => '562',
         'latitude_avg' => '16',
-        'longtitude_avg' => '8',
+        'longitude_avg' => '8',
     ],
     [
         'name_fa' => 'نیجریه',
@@ -1421,7 +1421,7 @@ $countries = [
         'alpha_2_code' => 'NG',
         'numeric_code' => '566',
         'latitude_avg' => '10',
-        'longtitude_avg' => '8',
+        'longitude_avg' => '8',
     ],
     [
         'name_fa' => 'نیووی',
@@ -1430,7 +1430,7 @@ $countries = [
         'alpha_2_code' => 'NU',
         'numeric_code' => '570',
         'latitude_avg' => '-19.0333',
-        'longtitude_avg' => '-169.8667',
+        'longitude_avg' => '-169.8667',
     ],
     [
         'name_fa' => 'جزیره نورفولک',
@@ -1439,7 +1439,7 @@ $countries = [
         'alpha_2_code' => 'NF',
         'numeric_code' => '574',
         'latitude_avg' => '-29.0333',
-        'longtitude_avg' => '167.95',
+        'longitude_avg' => '167.95',
     ],
     [
         'name_fa' => 'جزایر ماریانای شمالی',
@@ -1448,7 +1448,7 @@ $countries = [
         'alpha_2_code' => 'MP',
         'numeric_code' => '580',
         'latitude_avg' => '15.2',
-        'longtitude_avg' => '145.75',
+        'longitude_avg' => '145.75',
     ],
     [
         'name_fa' => 'نروژ',
@@ -1457,7 +1457,7 @@ $countries = [
         'alpha_2_code' => 'NO',
         'numeric_code' => '578',
         'latitude_avg' => '62',
-        'longtitude_avg' => '10',
+        'longitude_avg' => '10',
     ],
     [
         'name_fa' => 'عمان',
@@ -1466,7 +1466,7 @@ $countries = [
         'alpha_2_code' => 'OM',
         'numeric_code' => '512',
         'latitude_avg' => '21',
-        'longtitude_avg' => '57',
+        'longitude_avg' => '57',
     ],
     [
         'name_fa' => 'پاکستان',
@@ -1475,7 +1475,7 @@ $countries = [
         'alpha_2_code' => 'PK',
         'numeric_code' => '586',
         'latitude_avg' => '30',
-        'longtitude_avg' => '70',
+        'longitude_avg' => '70',
     ],
     [
         'name_fa' => 'پالائو',
@@ -1484,7 +1484,7 @@ $countries = [
         'alpha_2_code' => 'PW',
         'numeric_code' => '585',
         'latitude_avg' => '7.5',
-        'longtitude_avg' => '134.5',
+        'longitude_avg' => '134.5',
     ],
     [
         'name_fa' => 'فلسطین',
@@ -1493,7 +1493,7 @@ $countries = [
         'alpha_2_code' => 'PS',
         'numeric_code' => '275',
         'latitude_avg' => '32',
-        'longtitude_avg' => '35.25',
+        'longitude_avg' => '35.25',
     ],
     [
         'name_fa' => 'پاناما',
@@ -1502,7 +1502,7 @@ $countries = [
         'alpha_2_code' => 'PA',
         'numeric_code' => '591',
         'latitude_avg' => '9',
-        'longtitude_avg' => '-80',
+        'longitude_avg' => '-80',
     ],
     [
         'name_fa' => 'پاپوآ گینه نو',
@@ -1511,7 +1511,7 @@ $countries = [
         'alpha_2_code' => 'PG',
         'numeric_code' => '598',
         'latitude_avg' => '-6',
-        'longtitude_avg' => '147',
+        'longitude_avg' => '147',
     ],
     [
         'name_fa' => 'پاراگوئه',
@@ -1520,7 +1520,7 @@ $countries = [
         'alpha_2_code' => 'PY',
         'numeric_code' => '600',
         'latitude_avg' => '-23',
-        'longtitude_avg' => '-58',
+        'longitude_avg' => '-58',
     ],
     [
         'name_fa' => 'پرو',
@@ -1529,7 +1529,7 @@ $countries = [
         'alpha_2_code' => 'PE',
         'numeric_code' => '604',
         'latitude_avg' => '-10',
-        'longtitude_avg' => '-76',
+        'longitude_avg' => '-76',
     ],
     [
         'name_fa' => 'فیلیپین',
@@ -1538,7 +1538,7 @@ $countries = [
         'alpha_2_code' => 'PH',
         'numeric_code' => '608',
         'latitude_avg' => '13',
-        'longtitude_avg' => '122',
+        'longitude_avg' => '122',
     ],
     [
         'name_fa' => 'جزایر پیت‌کرن',
@@ -1547,7 +1547,7 @@ $countries = [
         'alpha_2_code' => 'PN',
         'numeric_code' => '612',
         'latitude_avg' => '-24.7',
-        'longtitude_avg' => '-127.4',
+        'longitude_avg' => '-127.4',
     ],
     [
         'name_fa' => 'لهستان',
@@ -1556,7 +1556,7 @@ $countries = [
         'alpha_2_code' => 'PL',
         'numeric_code' => '616',
         'latitude_avg' => '52',
-        'longtitude_avg' => '20',
+        'longitude_avg' => '20',
     ],
     [
         'name_fa' => 'پرتغال',
@@ -1565,7 +1565,7 @@ $countries = [
         'alpha_2_code' => 'PT',
         'numeric_code' => '620',
         'latitude_avg' => '39.5',
-        'longtitude_avg' => '-8',
+        'longitude_avg' => '-8',
     ],
     [
         'name_fa' => 'پورتوریکو',
@@ -1574,7 +1574,7 @@ $countries = [
         'alpha_2_code' => 'PR',
         'numeric_code' => '630',
         'latitude_avg' => '18.25',
-        'longtitude_avg' => '-66.5',
+        'longitude_avg' => '-66.5',
     ],
     [
         'name_fa' => 'قطر',
@@ -1583,7 +1583,7 @@ $countries = [
         'alpha_2_code' => 'QA',
         'numeric_code' => '634',
         'latitude_avg' => '25.5',
-        'longtitude_avg' => '51.25',
+        'longitude_avg' => '51.25',
     ],
     [
         'name_fa' => 'رئونیون',
@@ -1592,7 +1592,7 @@ $countries = [
         'alpha_2_code' => 'RE',
         'numeric_code' => '638',
         'latitude_avg' => '-21.1',
-        'longtitude_avg' => '55.6',
+        'longitude_avg' => '55.6',
     ],
     [
         'name_fa' => 'رومانی',
@@ -1601,7 +1601,7 @@ $countries = [
         'alpha_2_code' => 'RO',
         'numeric_code' => '642',
         'latitude_avg' => '46',
-        'longtitude_avg' => '25',
+        'longitude_avg' => '25',
     ],
     [
         'name_fa' => 'روسیه',
@@ -1610,7 +1610,7 @@ $countries = [
         'alpha_2_code' => 'RU',
         'numeric_code' => '643',
         'latitude_avg' => '60',
-        'longtitude_avg' => '100',
+        'longitude_avg' => '100',
     ],
     [
         'name_fa' => 'رواندا',
@@ -1619,7 +1619,7 @@ $countries = [
         'alpha_2_code' => 'RW',
         'numeric_code' => '646',
         'latitude_avg' => '-2',
-        'longtitude_avg' => '30',
+        'longitude_avg' => '30',
     ],
     [
         'name_fa' => 'سینت هلینا',
@@ -1628,7 +1628,7 @@ $countries = [
         'alpha_2_code' => 'SH',
         'numeric_code' => '654',
         'latitude_avg' => '-15.9333',
-        'longtitude_avg' => '-5.7',
+        'longitude_avg' => '-5.7',
     ],
     [
         'name_fa' => 'سنت کیتس و نویس',
@@ -1637,7 +1637,7 @@ $countries = [
         'alpha_2_code' => 'KN',
         'numeric_code' => '659',
         'latitude_avg' => '17.3333',
-        'longtitude_avg' => '-62.75',
+        'longitude_avg' => '-62.75',
     ],
     [
         'name_fa' => 'سنت لوسیا',
@@ -1646,7 +1646,7 @@ $countries = [
         'alpha_2_code' => 'LC',
         'numeric_code' => '662',
         'latitude_avg' => '13.8833',
-        'longtitude_avg' => '-61.1333',
+        'longitude_avg' => '-61.1333',
     ],
     [
         'name_fa' => 'سنت پیر و ماژلان',
@@ -1655,7 +1655,7 @@ $countries = [
         'alpha_2_code' => 'PM',
         'numeric_code' => '666',
         'latitude_avg' => '46.8333',
-        'longtitude_avg' => '-56.3333',
+        'longitude_avg' => '-56.3333',
     ],
     [
         'name_fa' => 'سنت وینسنت و گرنادین‌ها',
@@ -1664,7 +1664,7 @@ $countries = [
         'alpha_2_code' => 'VC',
         'numeric_code' => '670',
         'latitude_avg' => '13.25',
-        'longtitude_avg' => '-61.2',
+        'longitude_avg' => '-61.2',
     ],
     [
         'name_fa' => 'ساموآ',
@@ -1673,7 +1673,7 @@ $countries = [
         'alpha_2_code' => 'WS',
         'numeric_code' => '882',
         'latitude_avg' => '-13.5833',
-        'longtitude_avg' => '-172.3333',
+        'longitude_avg' => '-172.3333',
     ],
     [
         'name_fa' => 'سن مارینو',
@@ -1682,7 +1682,7 @@ $countries = [
         'alpha_2_code' => 'SM',
         'numeric_code' => '674',
         'latitude_avg' => '43.7667',
-        'longtitude_avg' => '12.4167',
+        'longitude_avg' => '12.4167',
     ],
     [
         'name_fa' => 'سائوتومه و پرنسیپ',
@@ -1691,7 +1691,7 @@ $countries = [
         'alpha_2_code' => 'ST',
         'numeric_code' => '678',
         'latitude_avg' => '1',
-        'longtitude_avg' => '7',
+        'longitude_avg' => '7',
     ],
     [
         'name_fa' => 'عربستان سعودی',
@@ -1700,7 +1700,7 @@ $countries = [
         'alpha_2_code' => 'SA',
         'numeric_code' => '682',
         'latitude_avg' => '25',
-        'longtitude_avg' => '45',
+        'longitude_avg' => '45',
     ],
     [
         'name_fa' => 'سنگال',
@@ -1709,7 +1709,7 @@ $countries = [
         'alpha_2_code' => 'SN',
         'numeric_code' => '686',
         'latitude_avg' => '14',
-        'longtitude_avg' => '-14',
+        'longitude_avg' => '-14',
     ],
     [
         'name_fa' => 'صربستان',
@@ -1718,7 +1718,7 @@ $countries = [
         'alpha_2_code' => 'RS',
         'numeric_code' => '688',
         'latitude_avg' => '44',
-        'longtitude_avg' => '21',
+        'longitude_avg' => '21',
     ],
     [
         'name_fa' => 'سیشل',
@@ -1727,7 +1727,7 @@ $countries = [
         'alpha_2_code' => 'SC',
         'numeric_code' => '690',
         'latitude_avg' => '-4.5833',
-        'longtitude_avg' => '55.6667',
+        'longitude_avg' => '55.6667',
     ],
     [
         'name_fa' => 'سیرالئون',
@@ -1736,7 +1736,7 @@ $countries = [
         'alpha_2_code' => 'SL',
         'numeric_code' => '694',
         'latitude_avg' => '8.5',
-        'longtitude_avg' => '-11.5',
+        'longitude_avg' => '-11.5',
     ],
     [
         'name_fa' => 'سنگاپور',
@@ -1745,7 +1745,7 @@ $countries = [
         'alpha_2_code' => 'SG',
         'numeric_code' => '702',
         'latitude_avg' => '1.3667',
-        'longtitude_avg' => '103.8',
+        'longitude_avg' => '103.8',
     ],
     [
         'name_fa' => 'اسلواکی',
@@ -1754,7 +1754,7 @@ $countries = [
         'alpha_2_code' => 'SK',
         'numeric_code' => '703',
         'latitude_avg' => '48.6667',
-        'longtitude_avg' => '19.5',
+        'longitude_avg' => '19.5',
     ],
     [
         'name_fa' => 'اسلوونی',
@@ -1763,7 +1763,7 @@ $countries = [
         'alpha_2_code' => 'SI',
         'numeric_code' => '705',
         'latitude_avg' => '46',
-        'longtitude_avg' => '15',
+        'longitude_avg' => '15',
     ],
     [
         'name_fa' => 'جزایر سلیمان',
@@ -1772,7 +1772,7 @@ $countries = [
         'alpha_2_code' => 'SB',
         'numeric_code' => '90',
         'latitude_avg' => '-8',
-        'longtitude_avg' => '159',
+        'longitude_avg' => '159',
     ],
     [
         'name_fa' => 'سومالی',
@@ -1781,7 +1781,7 @@ $countries = [
         'alpha_2_code' => 'SO',
         'numeric_code' => '706',
         'latitude_avg' => '10',
-        'longtitude_avg' => '49',
+        'longitude_avg' => '49',
     ],
     [
         'name_fa' => 'آفریقای جنوبی',
@@ -1790,7 +1790,7 @@ $countries = [
         'alpha_2_code' => 'ZA',
         'numeric_code' => '710',
         'latitude_avg' => '-29',
-        'longtitude_avg' => '24',
+        'longitude_avg' => '24',
     ],
     [
         'name_fa' => 'جورجیای جنوبی و جزایر ساندویچ جنوبی',
@@ -1799,7 +1799,7 @@ $countries = [
         'alpha_2_code' => 'GS',
         'numeric_code' => '239',
         'latitude_avg' => '-54.5',
-        'longtitude_avg' => '-37',
+        'longitude_avg' => '-37',
     ],
     [
         'name_fa' => 'اسپانیا',
@@ -1808,7 +1808,7 @@ $countries = [
         'alpha_2_code' => 'ES',
         'numeric_code' => '724',
         'latitude_avg' => '40',
-        'longtitude_avg' => '-4',
+        'longitude_avg' => '-4',
     ],
     [
         'name_fa' => 'سری‌لانکا',
@@ -1817,7 +1817,7 @@ $countries = [
         'alpha_2_code' => 'LK',
         'numeric_code' => '144',
         'latitude_avg' => '7',
-        'longtitude_avg' => '81',
+        'longitude_avg' => '81',
     ],
     [
         'name_fa' => 'سودان',
@@ -1826,7 +1826,7 @@ $countries = [
         'alpha_2_code' => 'SD',
         'numeric_code' => '736',
         'latitude_avg' => '15',
-        'longtitude_avg' => '30',
+        'longitude_avg' => '30',
     ],
     [
         'name_fa' => 'سورینام',
@@ -1835,7 +1835,7 @@ $countries = [
         'alpha_2_code' => 'SR',
         'numeric_code' => '740',
         'latitude_avg' => '4',
-        'longtitude_avg' => '-56',
+        'longitude_avg' => '-56',
     ],
     [
         'name_fa' => 'سوالبارد و یان ماین',
@@ -1844,7 +1844,7 @@ $countries = [
         'alpha_2_code' => 'SJ',
         'numeric_code' => '744',
         'latitude_avg' => '78',
-        'longtitude_avg' => '20',
+        'longitude_avg' => '20',
     ],
     [
         'name_fa' => 'سوازیلند',
@@ -1853,7 +1853,7 @@ $countries = [
         'alpha_2_code' => 'SZ',
         'numeric_code' => '748',
         'latitude_avg' => '-26.5',
-        'longtitude_avg' => '31.5',
+        'longitude_avg' => '31.5',
     ],
     [
         'name_fa' => 'سوئد',
@@ -1862,7 +1862,7 @@ $countries = [
         'alpha_2_code' => 'SE',
         'numeric_code' => '752',
         'latitude_avg' => '62',
-        'longtitude_avg' => '15',
+        'longitude_avg' => '15',
     ],
     [
         'name_fa' => 'سوئیس',
@@ -1871,7 +1871,7 @@ $countries = [
         'alpha_2_code' => 'CH',
         'numeric_code' => '756',
         'latitude_avg' => '47',
-        'longtitude_avg' => '8',
+        'longitude_avg' => '8',
     ],
     [
         'name_fa' => 'سوریه',
@@ -1880,7 +1880,7 @@ $countries = [
         'alpha_2_code' => 'SY',
         'numeric_code' => '760',
         'latitude_avg' => '35',
-        'longtitude_avg' => '38',
+        'longitude_avg' => '38',
     ],
     [
         'name_fa' => 'تاجیکستان',
@@ -1889,7 +1889,7 @@ $countries = [
         'alpha_2_code' => 'TJ',
         'numeric_code' => '762',
         'latitude_avg' => '39',
-        'longtitude_avg' => '71',
+        'longitude_avg' => '71',
     ],
     [
         'name_fa' => 'تانزانیا',
@@ -1898,7 +1898,7 @@ $countries = [
         'alpha_2_code' => 'TZ',
         'numeric_code' => '834',
         'latitude_avg' => '-6',
-        'longtitude_avg' => '35',
+        'longitude_avg' => '35',
     ],
     [
         'name_fa' => 'تایلند',
@@ -1907,7 +1907,7 @@ $countries = [
         'alpha_2_code' => 'TH',
         'numeric_code' => '764',
         'latitude_avg' => '15',
-        'longtitude_avg' => '100',
+        'longitude_avg' => '100',
     ],
     [
         'name_fa' => 'تیمور شرقی',
@@ -1916,7 +1916,7 @@ $countries = [
         'alpha_2_code' => 'TL',
         'numeric_code' => '626',
         'latitude_avg' => '-8.55',
-        'longtitude_avg' => '125.5167',
+        'longitude_avg' => '125.5167',
     ],
     [
         'name_fa' => 'توگو',
@@ -1925,7 +1925,7 @@ $countries = [
         'alpha_2_code' => 'TG',
         'numeric_code' => '768',
         'latitude_avg' => '8',
-        'longtitude_avg' => '1.1667',
+        'longitude_avg' => '1.1667',
     ],
     [
         'name_fa' => 'توکلائو',
@@ -1934,7 +1934,7 @@ $countries = [
         'alpha_2_code' => 'TK',
         'numeric_code' => '772',
         'latitude_avg' => '-9',
-        'longtitude_avg' => '-172',
+        'longitude_avg' => '-172',
     ],
     [
         'name_fa' => 'تونگا',
@@ -1943,7 +1943,7 @@ $countries = [
         'alpha_2_code' => 'TO',
         'numeric_code' => '776',
         'latitude_avg' => '-20',
-        'longtitude_avg' => '-175',
+        'longitude_avg' => '-175',
     ],
     [
         'name_fa' => 'ترینیداد و توباگو',
@@ -1952,7 +1952,7 @@ $countries = [
         'alpha_2_code' => 'TT',
         'numeric_code' => '780',
         'latitude_avg' => '11',
-        'longtitude_avg' => '-61',
+        'longitude_avg' => '-61',
     ],
     [
         'name_fa' => 'تونس',
@@ -1961,7 +1961,7 @@ $countries = [
         'alpha_2_code' => 'TN',
         'numeric_code' => '788',
         'latitude_avg' => '34',
-        'longtitude_avg' => '9',
+        'longitude_avg' => '9',
     ],
     [
         'name_fa' => 'ترکیه',
@@ -1970,7 +1970,7 @@ $countries = [
         'alpha_2_code' => 'TR',
         'numeric_code' => '792',
         'latitude_avg' => '39',
-        'longtitude_avg' => '35',
+        'longitude_avg' => '35',
     ],
     [
         'name_fa' => 'ترکمنستان',
@@ -1979,7 +1979,7 @@ $countries = [
         'alpha_2_code' => 'TM',
         'numeric_code' => '795',
         'latitude_avg' => '40',
-        'longtitude_avg' => '60',
+        'longitude_avg' => '60',
     ],
     [
         'name_fa' => 'جزایر تورکس و کایکوس',
@@ -1988,7 +1988,7 @@ $countries = [
         'alpha_2_code' => 'TC',
         'numeric_code' => '796',
         'latitude_avg' => '21.75',
-        'longtitude_avg' => '-71.5833',
+        'longitude_avg' => '-71.5833',
     ],
     [
         'name_fa' => 'تووالو',
@@ -1997,7 +1997,7 @@ $countries = [
         'alpha_2_code' => 'TV',
         'numeric_code' => '798',
         'latitude_avg' => '-8',
-        'longtitude_avg' => '178',
+        'longitude_avg' => '178',
     ],
     [
         'name_fa' => 'اوگاندا',
@@ -2006,7 +2006,7 @@ $countries = [
         'alpha_2_code' => 'UG',
         'numeric_code' => '800',
         'latitude_avg' => '1',
-        'longtitude_avg' => '32',
+        'longitude_avg' => '32',
     ],
     [
         'name_fa' => 'اوکراین',
@@ -2015,7 +2015,7 @@ $countries = [
         'alpha_2_code' => 'UA',
         'numeric_code' => '804',
         'latitude_avg' => '49',
-        'longtitude_avg' => '32',
+        'longitude_avg' => '32',
     ],
     [
         'name_fa' => 'امارات متحده عربی',
@@ -2024,7 +2024,7 @@ $countries = [
         'alpha_2_code' => 'AE',
         'numeric_code' => '784',
         'latitude_avg' => '24',
-        'longtitude_avg' => '54',
+        'longitude_avg' => '54',
     ],
     [
         'name_fa' => 'بریتانیا',
@@ -2033,7 +2033,7 @@ $countries = [
         'alpha_2_code' => 'GB',
         'numeric_code' => '826',
         'latitude_avg' => '54',
-        'longtitude_avg' => '-2',
+        'longitude_avg' => '-2',
     ],
     [
         'name_fa' => 'ایالات متحده آمریکا',
@@ -2042,7 +2042,7 @@ $countries = [
         'alpha_2_code' => 'US',
         'numeric_code' => '840',
         'latitude_avg' => '38',
-        'longtitude_avg' => '-97',
+        'longitude_avg' => '-97',
     ],
     [
         'name_fa' => 'جزایر کوچک حاشیه‌ای ایالات متحده',
@@ -2051,7 +2051,7 @@ $countries = [
         'alpha_2_code' => 'UM',
         'numeric_code' => '581',
         'latitude_avg' => '19.2833',
-        'longtitude_avg' => '166.6',
+        'longitude_avg' => '166.6',
     ],
     [
         'name_fa' => 'اروگوئه',
@@ -2060,7 +2060,7 @@ $countries = [
         'alpha_2_code' => 'UY',
         'numeric_code' => '858',
         'latitude_avg' => '-33',
-        'longtitude_avg' => '-56',
+        'longitude_avg' => '-56',
     ],
     [
         'name_fa' => 'ازبکستان',
@@ -2069,7 +2069,7 @@ $countries = [
         'alpha_2_code' => 'UZ',
         'numeric_code' => '860',
         'latitude_avg' => '41',
-        'longtitude_avg' => '64',
+        'longitude_avg' => '64',
     ],
     [
         'name_fa' => 'وانواتو',
@@ -2078,7 +2078,7 @@ $countries = [
         'alpha_2_code' => 'VU',
         'numeric_code' => '548',
         'latitude_avg' => '-16',
-        'longtitude_avg' => '167',
+        'longitude_avg' => '167',
     ],
     [
         'name_fa' => 'ونزوئلا',
@@ -2087,7 +2087,7 @@ $countries = [
         'alpha_2_code' => 'VE',
         'numeric_code' => '862',
         'latitude_avg' => '8',
-        'longtitude_avg' => '-66',
+        'longitude_avg' => '-66',
     ],
     [
         'name_fa' => 'ویتنام',
@@ -2096,7 +2096,7 @@ $countries = [
         'alpha_2_code' => 'VN',
         'numeric_code' => '704',
         'latitude_avg' => '16',
-        'longtitude_avg' => '106',
+        'longitude_avg' => '106',
     ],
     [
         'name_fa' => 'جزایر ویرجین انگلستان',
@@ -2105,7 +2105,7 @@ $countries = [
         'alpha_2_code' => 'VG',
         'numeric_code' => '92',
         'latitude_avg' => '18.5',
-        'longtitude_avg' => '-64.5',
+        'longitude_avg' => '-64.5',
     ],
     [
         'name_fa' => 'جزایر ویرجین ایالات متحده',
@@ -2114,7 +2114,7 @@ $countries = [
         'alpha_2_code' => 'VI',
         'numeric_code' => '850',
         'latitude_avg' => '18.3333',
-        'longtitude_avg' => '-64.8333',
+        'longitude_avg' => '-64.8333',
     ],
     [
         'name_fa' => 'والیس و فوتونا',
@@ -2123,7 +2123,7 @@ $countries = [
         'alpha_2_code' => 'WF',
         'numeric_code' => '876',
         'latitude_avg' => '-13.3',
-        'longtitude_avg' => '-176.2',
+        'longitude_avg' => '-176.2',
     ],
     [
         'name_fa' => 'صحرای غربی',
@@ -2132,7 +2132,7 @@ $countries = [
         'alpha_2_code' => 'EH',
         'numeric_code' => '732',
         'latitude_avg' => '24.5',
-        'longtitude_avg' => '-13',
+        'longitude_avg' => '-13',
     ],
     [
         'name_fa' => 'یمن',
@@ -2141,7 +2141,7 @@ $countries = [
         'alpha_2_code' => 'YE',
         'numeric_code' => '887',
         'latitude_avg' => '15',
-        'longtitude_avg' => '48',
+        'longitude_avg' => '48',
     ],
     [
         'name_fa' => 'زامبیا',
@@ -2150,7 +2150,7 @@ $countries = [
         'alpha_2_code' => 'ZM',
         'numeric_code' => '894',
         'latitude_avg' => '-15',
-        'longtitude_avg' => '30',
+        'longitude_avg' => '30',
     ],
     [
         'name_fa' => 'زیمبابوه',
@@ -2159,6 +2159,6 @@ $countries = [
         'alpha_2_code' => 'ZW',
         'numeric_code' => '716',
         'latitude_avg' => '-20',
-        'longtitude_avg' => '30',
+        'longitude_avg' => '30',
     ],
 ];
