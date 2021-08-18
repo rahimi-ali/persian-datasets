@@ -5,7 +5,7 @@ These are some datasets that I have struggled to find when building applications
 تعدادی دیتابیس/دیتاست برای ساخت اپلیکیشن های فارسی
 
 # Whats included
-- World Countries
+- World Countries ( json , php , sql , csv ) - لیست کشور های جهان 
   - countries 2 letter code - کد دو حرفی کشورها
   - countries 3 letter code - کد سه حرفی کشورها
   - countries numeric code - کد عددی کشورها
